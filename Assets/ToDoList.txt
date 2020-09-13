@@ -1,0 +1,3 @@
+OnFar -> click -> popup def
+OnNear -> interactable obj highlighted
+OnNear -> if(Click ob highlighted) -> GetObj
